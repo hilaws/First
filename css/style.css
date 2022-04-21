@@ -1,0 +1,126 @@
+.resize{
+  width: 100%;
+}
+.change_size_dv{
+
+  width:110px;
+  height: 26px;
+ 
+}
+.paragraph_alig{
+
+  padding-top: 150px;
+  margin-left: 35px;
+}
+.play_resize{
+
+    width: 100px;
+    height: 45px;
+}
+.button{
+
+  width:150px;
+  height:45px;
+}
+.programmer{
+
+  width: 100%;
+}
+.resize_programer{
+
+  width: 269px;
+  height:294px;
+  
+}
+
+.img-hover-zoom {
+ 
+  transform:scale(1.0);
+  
+}
+
+.secound_div_images{
+
+     width: 100%;
+}
+.secound_dv_size{
+ 
+     width: 400px;
+     height:390px;
+  
+}
+
+.break_dv{
+
+  height: 150px;
+}
+.letter_alig{
+  padding-top: 35px;
+}
+
+.icon_size{
+
+  width: 100%;
+}
+
+.icon_dv{
+  
+  width: 56px;
+  
+  
+}
+
+.certificate_box{
+
+  height:300px;
+}
+
+.certificate_box_size{
+
+  width: 429px;
+}
+.distance_keep{
+
+  padding-top: 160px;
+}
+
+.teachers{
+  width: 350px;
+}
+.logo_resize{
+
+  width: 150px;
+}
+
+.menu_dv{
+  opacity: 0.5;
+}
+
+ #flip {  
+  
+  text-align: left;  
+  margin-left: 150px; 
+  
+
+  
+}  
+#panel {  
+  
+  display:none;  
+  text-align: center;
+}
+
+
+.select_button{
+
+  width: 100%;
+  background-color: lightgray;
+  height: 50px;
+  border: none;
+ 
+}
+
+.footer_dv{
+
+  height: 120px;
+}
